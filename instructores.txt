@@ -1,7 +1,1 @@
-Integrantes:
-Emiliano
-- Chong :))
-Diego Rosas
-Archivo completo
-
-Master c2
+Commit master 
